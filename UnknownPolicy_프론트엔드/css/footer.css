@@ -1,0 +1,28 @@
+#announcement{
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+#footer_hr{
+    position: relative;
+    top: 50px;
+}
+#member{
+    position: relative;
+    top: 70px;
+    left: 50px;
+}
+
+.announcement_comment{
+    float:left;
+}
+#support,#together,#use,#Privacy,#UP_Policy,#Service,#UPTEAM{
+    font-size: 25px;
+    padding: 25px;
+}
+.footer_ment{
+    width: 80%;
+    position: relative;
+    top: 70px;
+    left: 24px;;
+}

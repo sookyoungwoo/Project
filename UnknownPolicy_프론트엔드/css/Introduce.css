@@ -1,0 +1,27 @@
+.Introduce_ment1{ 
+
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 72px;
+    /* identical to box height */
+
+    text-align: center;
+}
+.Introduce_ment2{
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+
+
+}
+
+.Introduce_ment{
+    position: relative;
+    top: 200px;
+}

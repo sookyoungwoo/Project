@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #CE90FF;
+    height: 65px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+section{
+    background-color: white;
+    height: 920px;
+    position: static;
+    top: 0;
+    margin-top: 4px;
+}
+footer{
+    background-color: white;
+    height: 300px;
+}
+
+main{
+    background-color: rgb(241, 239, 239);
+    height: 5575px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}

@@ -1,0 +1,50 @@
+.mainlogo{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:200px;
+}
+
+.main_bar{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:240px;
+}
+
+.bar_text{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 140px;
+}
+
+#main_text{ 
+    width:500px;
+    height:80px;
+    font-size:30px;
+    border: 0;
+    outline: 0;
+    
+}
+
+.main_button{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    left: 260px;
+}
+button{ 
+    background-color:transparent;
+    border: 0;
+    outline: 0;
+}
+
+.main_hr{
+    width:1400px;
+    position: relative;
+    top: 250px;
+    
+}
+

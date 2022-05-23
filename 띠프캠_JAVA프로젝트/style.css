@@ -1,0 +1,119 @@
+
+.btns{
+    width: 500;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0;
+}
+.btns>button {
+    margin-left: 2%;
+    font-size: 5vw;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+th:nth-child(1) {
+    width: 10%;
+}
+th:nth-child(2) {
+    width: 20%;
+}
+
+th:nth-child(3), th:nth-child(4), th:nth-child(5) {
+    width: 30%;
+}
+img {
+    max-width: 100%;
+    width: auto !important;
+    height: auto;
+}
+.Siren{
+    float:left;
+    width:100px;
+    height:100px;
+    position: relative;
+    top:8px;
+}
+.thiefs{
+    float:left;
+    width:250px;
+    height:100px;
+    position: relative;
+    top:8px;
+}
+.logo{
+    float:left;
+    width:300px;
+    height:120px;
+    position: relative;
+    left:275px;
+    top:-8px;
+}
+button{
+    background-color: rgb(199, 237, 255);
+    width: 220px;
+    height:70px;
+    color:rgb(62, 19, 255);
+    font-size:45px;
+    font-family: 굴림;
+}
+.delete{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top:20px;
+    left:210px;
+}
+.return{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top:20px;
+    left:200px;
+}
+input{
+    background-color: rgb(255, 235, 205);
+    width: 220px;
+    height:70px;
+    color:red;
+    font-size:45px;
+    font-family: 굴림;
+}
+  table {
+    width: 100%;
+    border-top: 1px solid #000000;
+  }
+  td {
+      
+    border-bottom: 1px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    border-bottom: 1px solid #d3b8ff;
+    padding: 10px;
+    text-align: center; 
+  }
+  thead th {
+    background-color: #d3b8ff;
+    color: #ffffff;
+  }
+  
+  thead tr {
+    background-color: #d3b8ff;
+    color: #000000;
+  }
+  tbody tr:nth-child(2n) {
+    background-color: #ecbbfb;
+  }
+  tbody tr:nth-child(2n+1) {
+    background-color: #e3f2fd;
+  }

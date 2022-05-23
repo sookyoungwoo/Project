@@ -1,0 +1,157 @@
+
+header{
+    background-color: transparent;
+    height: 65px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+main{
+    background-color: white;
+    height: 865px;
+    position: static;
+    top: 0;
+    margin-top: -34px;
+}
+.logo{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    display: inline;
+}
+
+/*Introduce          */
+.Introduce_text{
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 250px;
+    top: 17px;
+    display: inline;
+}
+.Introduce_hr{
+    width: 130px;
+    height: 5px;
+    background-color: white;
+    position: fixed;
+    left: 225px;
+    top: 40px;
+    border: 0;
+    
+}
+
+
+/*Variable           */
+.Variable_text{
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 550px;
+    top: 17px;
+    
+    display: inline;
+}
+.Variable_hr{
+    width: 130px;
+    height: 5px;
+    background-color: white;
+    position: fixed;
+    left: 520px;
+    top: 40px;
+    border: 0;
+    
+}
+
+/* Search          */
+.Search_text{
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 850px;
+    top: 17px;
+    
+    display: inline;
+}
+.Search_hr{
+    width: 130px;
+    height: 5px;
+    background-color: white;
+    position: fixed;
+    left: 813px;
+    top: 40px;
+    border: 0;
+    
+}
+
+/* Tech spec       */
+.Techspec_text{
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 1150px;
+    top: 17px;
+    
+    display: inline;
+}
+.Techspec_hr{
+    width: 130px;
+    height: 5px;
+    background-color: white;
+    position: fixed;
+    left: 1127px;
+    top: 40px;
+    border: 0;
+    
+}
+
+/* Developer       */
+.Developer_text{
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 1450px;
+    top: 17px;
+    
+    display: inline;
+}
+.Developer_hr{
+    width: 130px;
+    height: 5px;
+    background-color: white;
+    position: fixed;
+    left: 1429px;
+    top: 40px;
+    border: 0;
+    
+}
+.searchbutton{
+    position: fixed;
+    right: 50px;
+    top: 18px;
+}    
+#search{
+    background-color: transparent;
+    border:0;
+    outline: 0;
+}

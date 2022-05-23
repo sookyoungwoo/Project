@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>띠프알리미</title>
+</head>
+<body>
+    
+    <div class="Siren" >
+        <img src="image1.png">
+    </div>
+    <div class="thiefs">
+        <img src="thiefs.png">
+    </div>
+    
+    <div class="logo">
+        <img src="logo.png">
+    </div>
+    <div class="btns">
+        <div class="return">
+            <button id="reset" >새로고침</button>
+        </div>
+        <div class="delete">
+            <input type='button' value="삭제" onclick='deleteRow(-1)'/>
+        </div>
+    </div>
+    
+    <div>
+        <table id="soeun" border="1">
+            <thead>
+                    <th>No.</th>
+                    <th>date</th>
+                    <th>time</th>
+                    <th>띠프알리미</th>
+                    <tr>
+                        <td bgcolor="#ffffff">No.01</td>
+                        <td bgcolor="#ffffff">2021-12-24</td>
+                        <td bgcolor="#ffffff">10:30:10</td>
+                        <td bgcolor="#ffffff">도둑이야! 도둑이야!</td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff">No.02</td>
+                        <td bgcolor="#ffffff">2021-12-24</td>
+                        <td bgcolor="#ffffff">10:30:15</td>
+                        <td bgcolor="#ffffff">도둑이야! 도둑이야!</td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff">No.02</td>
+                        <td bgcolor="#ffffff">2021-12-24</td>
+                        <td bgcolor="#ffffff">10:30:20</td>
+                        <td bgcolor="#ffffff">도둑이야! 도둑이야!</td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff">No.02</td>
+                        <td bgcolor="#ffffff">2021-12-24</td>
+                        <td bgcolor="#ffffff">10:31:00</td>
+                        <td bgcolor="#ffffff">도둑이야! 도둑이야!</td>
+                    </tr>
+            </thead>
+            <tbody id="table">
+
+            </tbody>
+        </table>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

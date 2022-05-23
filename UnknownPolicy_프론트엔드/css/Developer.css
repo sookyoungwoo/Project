@@ -1,0 +1,107 @@
+
+#PM_picture{
+    width: 200px;
+    position: relative;
+    left: 440px;
+    top: 90px;
+}
+
+   
+.Back_picture1{
+    
+    width: 200px;
+    position: relative;
+    left: 974px;
+    bottom: 300px;
+}
+         
+.Back_picture2{
+    width: 200px;
+    position: relative;
+    left: 1200px;
+    bottom: 582px;
+}
+   
+    
+.PS_picture{
+    width: 200px;
+    position: relative;
+    left: 440px;
+    bottom: 580px;
+}
+      
+.Design_picture1{
+    width: 200px;
+    position: relative;
+    left: 972px;
+    bottom: 966px;
+}
+  
+.Design_picture2{
+    width: 200px;
+    position: relative;
+    left:1200px;
+    bottom: 1246px;
+}
+.Del_hr{
+    position: relative;
+    bottom: 580px;
+    width: 1400px;
+}
+
+.PM_text{
+    position: relative;
+    width: 250px;
+    height: 101px;
+    left: 498px;
+    top: 80px;
+    padding: 0;
+    
+
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 96px;
+
+}
+.Back_text{
+    position: relative;
+    width: 250px;
+    height: 101px;
+    left: 1109px;
+    bottom: 306px;
+
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 96px;
+
+}
+.PS_text{
+    position: relative;
+    width: 250px;
+    height: 101px;
+    left: 440px;
+    bottom: 580px;
+
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 96px;
+}
+.Design_text{
+    position: relative;
+    width: 250px;
+    height: 101px;
+    left: 1080px;
+    bottom:966px;
+
+    font-family: IBM Plex Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 96px;
+}
